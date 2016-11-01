@@ -1,0 +1,6 @@
+make directory(mkdir)
+list(ls)
+change directory(cd)
+print working directory(pwd)
+touch
+ls -alt
